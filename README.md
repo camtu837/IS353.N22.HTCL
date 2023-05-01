@@ -2,6 +2,8 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 <h2> 👨🏻‍💻 Thông tin môn học </h2>
+- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🔭 &nbsp; Tên môn học: Mạng xã hội
 - 💻 &nbsp; Mã môn học: IS353
 - 🌱 &nbsp; Mã lớp: IS353.N22.HTCL
