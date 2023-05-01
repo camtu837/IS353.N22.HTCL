@@ -1,9 +1,6 @@
 <h2> IS353.N22.HTCL - Mạng xã hội <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 <h2> 👨🏻‍💻 Thông tin môn học </h2>
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🔭 &nbsp; Tên môn học: Mạng xã hội
 - 💻 &nbsp; Mã môn học: IS353
 - 🌱 &nbsp; Mã lớp: IS353.N22.HTCL
@@ -18,6 +15,6 @@
 | 20520797 | Nguyễn Thu Thủy | 20520797@gm.uit.edu.vn |  
 
 
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 
