@@ -8,8 +8,8 @@
 - ✍️ &nbsp; Năm học: 2023-2024 <br>
 - 🎓 &nbsp; Giảng viên: Ths. Nguyễn Thị Kim Phụng - phungntk@uit.edu.vn <br>
 
-<h2>🛠 Nhóm</h2>
-<br>
+<h2>🛠 Nhóm</h2> <br>
+
 | MSSV | Họ và tên | Gmail | Github |
 |--------------|-------|------|-------|
 | 20520837 | Nguyễn Cẩm Tú | 20520837@gm.uit.edu.vn | https://github.com/camtu837 
