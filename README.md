@@ -8,7 +8,7 @@
 - ✍️ &nbsp; Năm học: 2023-2024 <br>
 - 🎓 &nbsp; Giảng viên: Ths. Nguyễn Thị Kim Phụng - phungntk@uit.edu.vn <br>
 
-<h2>🛠 Nhóm</h2> <br>
+<h2>🛠 Nhóm</h2>
 
 | MSSV | Họ và tên | Gmail | Github |
 |--------------|-------|------|-------|
