@@ -1,5 +1,5 @@
-<h2> IS353.N22.HTCL - Mạng xã hội <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<h2> IS353.N22.HTCL - Mạng xã hội <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <h3> 👨🏻‍💻 Thông tin môn học </h3>
 - Tên môn học: Mạng xã hội
