@@ -7,7 +7,7 @@
 - 🌱 &nbsp; Mã lớp: IS353.N22.HTCL <br>
 - ✍️ &nbsp; Năm học: 2023-2024 <br>
 - 🎓 &nbsp; Giảng viên: Ths. Nguyễn Thị Kim Phụng 
-       &nbsp;       phungntk@uit.edu.vn <br>
+       &nbsp;      - phungntk@uit.edu.vn <br>
 
 <h2>🛠 Nhóm</h2>
 
