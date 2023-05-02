@@ -6,14 +6,15 @@
 - 💻 &nbsp; Mã môn học: IS353 <br> 
 - 🌱 &nbsp; Mã lớp: IS353.N22.HTCL <br>
 - ✍️ &nbsp; Năm học: 2023-2024 <br>
-- 🎓 &nbsp; Giảng viên: Ths. Nguyễn Thị Kim Phụng - phungntk@uit.edu.vn <br>
+- 🎓 &nbsp; Giảng viên: Ths. Nguyễn Thị Kim Phụng 
+       &nbsp;       phungntk@uit.edu.vn <br>
 
 <h2>🛠 Nhóm</h2>
 
 | MSSV | Họ và tên | Gmail | Github |
 |--------------|-------|------|-------|
 | 20520837 | Nguyễn Cẩm Tú | 20520837@gm.uit.edu.vn | https://github.com/camtu837 
-| 20520797 | Nguyễn Thu Thủy | 20520797@gm.uit.edu.vn |  
+| 20520797 | Nguyễn Thu Thủy | 20520797@gm.uit.edu.vn |  https://github.com/nttt0201
 
 
 
